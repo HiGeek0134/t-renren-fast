@@ -1,0 +1,1 @@
+2023/01/30 20:20:39 [error] 25316#27028: *2 CreateFile() "E:\renren-fast\renren-fast-vue-master/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
